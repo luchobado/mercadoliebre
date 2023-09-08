@@ -378,9 +378,10 @@ input.btn-reset:hover{
     }
 
     .discount{
+        position: relative;
+        left: 30%;
         width: 70%;
         font-size: 16px;
-        text-align: center;
     }
 }
 
@@ -430,7 +431,8 @@ input.btn-reset:hover{
 
     .discount{
         padding-left: 50px;
-        width: 70%;
+        text-align: center;
+        left: 0%;
     }
     
     /*Register*/
